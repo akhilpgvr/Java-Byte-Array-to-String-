@@ -5,3 +5,4 @@ This includes the spaces as well. Using Byte Array we can convert any datatype i
 
 This code is for converting byte array in to String.
 I have used String object for converting byte array into String.
+UTF-8(Unicode Transformation Format) is a Unicode character encoding method. This means that UTF-8 takes the code point for a given Unicode character and translates it into a string of binary.
